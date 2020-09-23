@@ -105,3 +105,7 @@ rl_datetime,search_term,processed_search_term,url,max_return_size,results_count
 2020-09-23T06:10:15Z,MIFAMURTIDE (L-MTP-PE),MIFAMURTIDE(L-MTP-PE),https://pubmed.ncbi.nlm.nih.gov/?term=MIFAMURTIDE(L-MTP-PE)&sort=date&size=20,20,44
 2020-09-23T06:10:21Z,GM2-KLH,GM2-KLH,https://pubmed.ncbi.nlm.nih.gov/?term=GM2-KLH&sort=date&size=20,20,16
 2020-09-23T06:10:25Z,GSK525762,GSK525762,https://pubmed.ncbi.nlm.nih.gov/?term=GSK525762&sort=date&size=20,20,63
+2020-09-23T06:10:35Z,BRYOSTATIN-1,BRYOSTATIN-1,https://pubmed.ncbi.nlm.nih.gov/?term=BRYOSTATIN-1&sort=date&size=20,20,748
+2020-09-23T06:10:38Z,AZIRIDINYLBENZOQUINONE (AZQ),AZIRIDINYLBENZOQUINONE(AZQ),https://pubmed.ncbi.nlm.nih.gov/?term=AZIRIDINYLBENZOQUINONE(AZQ)&sort=date&size=20,20,56
+2020-09-23T06:10:42Z,MENOGARIL,MENOGARIL,https://pubmed.ncbi.nlm.nih.gov/?term=MENOGARIL&sort=date&size=20,20,112
+2020-09-23T06:10:46Z,VINCRISTINE LIPOSOME,VINCRISTINELIPOSOME,https://pubmed.ncbi.nlm.nih.gov/?term=VINCRISTINELIPOSOME&sort=date&size=20,20,NA
