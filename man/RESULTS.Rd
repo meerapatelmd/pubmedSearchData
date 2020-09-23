@@ -5,7 +5,7 @@
 \alias{RESULTS}
 \title{RESULTS}
 \format{
-A data frame with 571 rows and 5 variables:
+A data frame with 1177 rows and 5 variables:
 \describe{
 \item{\code{r_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{url}}{character COLUMN_DESCRIPTION}
