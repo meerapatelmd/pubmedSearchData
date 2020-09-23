@@ -1,18 +1,15 @@
 Package: pubmedSearchData
-Title: pubmedSearch Data Storage 
-Version: 1.0.0
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
 Authors@R: 
     person(given = "Meera",
            family = "Patel, MD",
            role = c("aut", "cre"),
            email = "patelmeeray@gmail.com",
            comment = c(ORCID = "0000-0002-3401-3948"))
-Description: 
-    Data Package for all PubMed Search results in the skyscraper package.
+Description: What the package does (one paragraph).
 License: Apache License 2.0
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
-Depends: 
-    R (>= 2.10)
