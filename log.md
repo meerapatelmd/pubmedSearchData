@@ -21,3 +21,7 @@ Timestamp	Activity Type	Function	File	Details
 2020-09-23 02:10:50	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/pubmedSearchData//data-raw//RESULTS_LOG.csv	
 2020-09-23 02:10:50	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/pubmedSearchData//data-raw//RESULTS.csv	
 2020-09-23 02:10:50	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/pubmedSearchData//data-raw//RESULTS_LOG.csv	
+2020-09-23 02:19:18	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/pubmedSearchData//data-raw//RESULTS.csv	
+2020-09-23 02:19:18	write	simply_write_csv	/Users/patelm9/GitHub/Public-Packages/pubmedSearchData//data-raw//RESULTS_LOG.csv	
+2020-09-23 02:19:18	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/pubmedSearchData//data-raw//RESULTS.csv	
+2020-09-23 02:19:18	read	simply_read_csv	/Users/patelm9/GitHub/Public-Packages/pubmedSearchData//data-raw//RESULTS_LOG.csv	

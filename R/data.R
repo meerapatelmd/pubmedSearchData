@@ -1,6 +1,6 @@
 #' @title RESULTS
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 1380 rows and 5 variables:
+#' @format A data frame with 1400 rows and 5 variables:
 #' \describe{
 #'   \item{\code{r_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{url}}{character COLUMN_DESCRIPTION}
@@ -13,7 +13,7 @@
 
 #' @title RESULTS_LOG
 #' @description DATASET_DESCRIPTION
-#' @format A data frame with 110 rows and 6 variables:
+#' @format A data frame with 111 rows and 6 variables:
 #' \describe{
 #'   \item{\code{rl_datetime}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{search_term}}{character COLUMN_DESCRIPTION}

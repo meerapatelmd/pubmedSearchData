@@ -5,7 +5,7 @@
 \alias{RESULTS_LOG}
 \title{RESULTS_LOG}
 \format{
-A data frame with 110 rows and 6 variables:
+A data frame with 111 rows and 6 variables:
 \describe{
 \item{\code{rl_datetime}}{double COLUMN_DESCRIPTION}
 \item{\code{search_term}}{character COLUMN_DESCRIPTION}
