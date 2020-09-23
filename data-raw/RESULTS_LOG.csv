@@ -96,3 +96,12 @@ rl_datetime,search_term,processed_search_term,url,max_return_size,results_count
 2020-09-23T06:04:34Z,PROCARBAZINE,PROCARBAZINE,https://pubmed.ncbi.nlm.nih.gov/?term=PROCARBAZINE&sort=date&size=20,20,4144
 2020-09-23T06:04:38Z,GPI-0100,GPI-0100,https://pubmed.ncbi.nlm.nih.gov/?term=GPI-0100&sort=date&size=20,20,32
 2020-09-23T06:04:42Z,THALIDOMIDE,THALIDOMIDE,https://pubmed.ncbi.nlm.nih.gov/?term=THALIDOMIDE&sort=date&size=20,20,11587
+2020-09-23T06:09:44Z,AZD4877,AZD4877,https://pubmed.ncbi.nlm.nih.gov/?term=AZD4877&sort=date&size=20,20,7
+2020-09-23T06:09:48Z,AVAPRITINIB,AVAPRITINIB,https://pubmed.ncbi.nlm.nih.gov/?term=AVAPRITINIB&sort=date&size=20,20,37
+2020-09-23T06:09:52Z,MMPR,MMPR,https://pubmed.ncbi.nlm.nih.gov/?term=MMPR&sort=date&size=20,20,67
+2020-09-23T06:09:56Z,PBI-SHRNA EWS/FLI1 TYPE 1 LPX,PBI-SHRNAEWS/FLI1TYPE1LPX,https://pubmed.ncbi.nlm.nih.gov/?term=PBI-SHRNAEWS/FLI1TYPE1LPX&sort=date&size=20,20,NA
+2020-09-23T06:10:00Z,PT2385,PT2385,https://pubmed.ncbi.nlm.nih.gov/?term=PT2385&sort=date&size=20,20,25
+2020-09-23T06:10:11Z,VELIPARIB (ABT-888),VELIPARIB(ABT-888),https://pubmed.ncbi.nlm.nih.gov/?term=VELIPARIB(ABT-888)&sort=date&size=20,20,387
+2020-09-23T06:10:15Z,MIFAMURTIDE (L-MTP-PE),MIFAMURTIDE(L-MTP-PE),https://pubmed.ncbi.nlm.nih.gov/?term=MIFAMURTIDE(L-MTP-PE)&sort=date&size=20,20,44
+2020-09-23T06:10:21Z,GM2-KLH,GM2-KLH,https://pubmed.ncbi.nlm.nih.gov/?term=GM2-KLH&sort=date&size=20,20,16
+2020-09-23T06:10:25Z,GSK525762,GSK525762,https://pubmed.ncbi.nlm.nih.gov/?term=GSK525762&sort=date&size=20,20,63
