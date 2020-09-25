@@ -3,7 +3,7 @@
 \docType{data}
 \name{RESULTS}
 \alias{RESULTS}
-\title{RESULTS}
+\title{DATASET_TITLE}
 \format{
 A data frame with 1400 rows and 5 variables:
 \describe{
